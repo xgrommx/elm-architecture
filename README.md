@@ -1,5 +1,12 @@
 # Elm architecture in javascript
 
+## Articles
+
+* [Elm Architecture for React](https://medium.com/@thinkfunctional/elm-architecture-for-react-951b383fcd65#.4z6b3mj1q)
+* [Elm Architecture for React (Part 2)](https://medium.com/@thinkfunctional/elm-architecture-for-react-part-2-73e73d9a6a89#.m3znccgb8)
+
+## Examples
+
 * [**yelouafi/snabbdom-todomvc** - TodoMVC using snabbdom and Elm architecture
 ](https://github.com/yelouafi/snabbdom-todomvc) ([snabbdom](https://github.com/paldepind/snabbdom), [union-type](https://github.com/paldepind/union-type))
 * [**brabadu/tanok** - Elm Architecture-inspired wrapper for Rx.js+React](https://github.com/brabadu/tanok) ([React](https://github.com/facebook/react), [RxJS](https://github.com/Reactive-Extensions/RxJS))
